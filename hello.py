@@ -1,0 +1,1 @@
+print("taeha is more handsome than gyeong sub")
